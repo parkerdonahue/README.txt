@@ -1,6 +1,6 @@
-Hello World, 
 
 My name is Parker Donahue.
-I am a sophomore Computer Science major at URI
-I am currently learning about sofware devlopment,
-and programming language structures in CSC301 and CSC305
+
+As a junior computer science major, I bring a solid foundation in programming and web development to the table. With experience in languages such as C++, JavaScript, CSS, and Python, I have an understanding of both front-end and back-end technologies.
+
+Through coursework and personal projects, I've honed my skills in designing user interfaces, implementing efficient algorithms, and leveraging various frameworks. I plan to continue expanding my knowledge and applying it to real-world challenges.
